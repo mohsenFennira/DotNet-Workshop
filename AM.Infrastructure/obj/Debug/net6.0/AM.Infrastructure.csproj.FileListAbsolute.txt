@@ -1,0 +1,17 @@
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.deps.json
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.runtimeconfig.json
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.dll
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.pdb
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfo.cs
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CopyComplete
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.dll
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\refint\AM.Infrastructure.dll
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.pdb
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.genruntimeconfig.cache
+C:\Users\fnmoh\Desktop\.net classroom\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\ref\AM.Infrastructure.dll
